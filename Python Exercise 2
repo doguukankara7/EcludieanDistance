@@ -1,6 +1,6 @@
+import math
 points = [(1, 2), (4, 6), (5, 8), (2, 1)]
 
-import math
 def euclideanDistance(tuple1, tuple2):
     x1, y1 = tuple1
     x2, y2 = tuple2
